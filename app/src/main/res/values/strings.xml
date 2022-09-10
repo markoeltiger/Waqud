@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">waqud</string>
+    <string name="app_key">31fdhg2334xzewrgfhfdjhrg</string>
+    <string name="expretion">\d{0,15}\.\d{0,2}</string>
+</resources>
